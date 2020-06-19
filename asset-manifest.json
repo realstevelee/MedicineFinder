@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.8f50f6f8.chunk.js",
-    "main.js.map": "/static/js/main.8f50f6f8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a90c666e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a90c666e.js.map",
-    "static/js/2.ebe7026c.chunk.js": "/static/js/2.ebe7026c.chunk.js",
-    "static/js/2.ebe7026c.chunk.js.map": "/static/js/2.ebe7026c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.81b6af37a18bb7ceb0e8bcdd2b4a0bc9.js": "/precache-manifest.81b6af37a18bb7ceb0e8bcdd2b4a0bc9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.ebe7026c.chunk.js.LICENSE.txt": "/static/js/2.ebe7026c.chunk.js.LICENSE.txt"
+    "main.js": "/MedicineFinder/static/js/main.8f50f6f8.chunk.js",
+    "main.js.map": "/MedicineFinder/static/js/main.8f50f6f8.chunk.js.map",
+    "runtime-main.js": "/MedicineFinder/static/js/runtime-main.fbead94b.js",
+    "runtime-main.js.map": "/MedicineFinder/static/js/runtime-main.fbead94b.js.map",
+    "static/js/2.ebe7026c.chunk.js": "/MedicineFinder/static/js/2.ebe7026c.chunk.js",
+    "static/js/2.ebe7026c.chunk.js.map": "/MedicineFinder/static/js/2.ebe7026c.chunk.js.map",
+    "index.html": "/MedicineFinder/index.html",
+    "precache-manifest.e567d9b3df4d9651852bd58b8a753c9a.js": "/MedicineFinder/precache-manifest.e567d9b3df4d9651852bd58b8a753c9a.js",
+    "service-worker.js": "/MedicineFinder/service-worker.js",
+    "static/js/2.ebe7026c.chunk.js.LICENSE.txt": "/MedicineFinder/static/js/2.ebe7026c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a90c666e.js",
+    "static/js/runtime-main.fbead94b.js",
     "static/js/2.ebe7026c.chunk.js",
     "static/js/main.8f50f6f8.chunk.js"
   ]
