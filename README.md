@@ -1,1 +1,1 @@
-DEMO(https://realstevelee.github.io/MedicineFinder/)
+[DEMO](https://realstevelee.github.io/MedicineFinder/)
