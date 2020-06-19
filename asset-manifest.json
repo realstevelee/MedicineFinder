@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/medicinefinder/static/js/main.de32f48d.chunk.js",
+    "main.js.map": "/medicinefinder/static/js/main.de32f48d.chunk.js.map",
+    "runtime-main.js": "/medicinefinder/static/js/runtime-main.e4c501fe.js",
+    "runtime-main.js.map": "/medicinefinder/static/js/runtime-main.e4c501fe.js.map",
+    "static/js/2.ebe7026c.chunk.js": "/medicinefinder/static/js/2.ebe7026c.chunk.js",
+    "static/js/2.ebe7026c.chunk.js.map": "/medicinefinder/static/js/2.ebe7026c.chunk.js.map",
+    "index.html": "/medicinefinder/index.html",
+    "precache-manifest.9845122057c60d7a78c8b28e276c1830.js": "/medicinefinder/precache-manifest.9845122057c60d7a78c8b28e276c1830.js",
+    "service-worker.js": "/medicinefinder/service-worker.js",
+    "static/js/2.ebe7026c.chunk.js.LICENSE.txt": "/medicinefinder/static/js/2.ebe7026c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4c501fe.js",
+    "static/js/2.ebe7026c.chunk.js",
+    "static/js/main.de32f48d.chunk.js"
+  ]
+}
